@@ -56,7 +56,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://www.instagram.com/p/C8TFqpGMngv/?img_index=2"
+      src="https://scontent.fjoi2-1.fna.fbcdn.net/v/t39.30808-6/448827709_7910319372351356_6219225715887475891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEWRxvmvwCyz1TKGNQXu2Zuw2OK3O6pwUfDY4rc7qnBRzN9Dawh8RQU_fDClQK0ZGF2jbRVqXyhdl-YMI_onrCu&_nc_ohc=fUTuCCEefacQ7kNvgGzBtTx&_nc_ht=scontent.fjoi2-1.fna&oh=00_AYCEzHIoTl8fuu1D4bGKW0CLr3d6n2tE3pmEpF1m1CHcqQ&oe=667A142E"
     />
     <p>&nbsp&nbsp&nbspCassius Vinicius Barg<br>
     &nbsp&nbsp&nbsp
