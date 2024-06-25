@@ -9,7 +9,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-e-sua-utilizacao-no-python?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.notion.so/Full-Stack-Quest-Level-Up-Your-Code-ac992b4981e2480f96aeb0a3789c7fd3?pvs=4" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
